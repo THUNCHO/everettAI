@@ -1,1 +1,36 @@
-theme: jekyll-theme-cayman
+# Site settings
+title: John Doe - Software Engineer
+description: A portfolio website for John Doe, a software engineer
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+permalink: /:title/
+
+# Theme settings
+theme: minima
+
+# Navigation links
+nav:
+  - name: Home
+    url: /
+  - name: Projects
+    url: /projects/
+  - name: About
+    url: /about/
+  - name: Contact
+    url: /contact/
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+
+# SEO settings
+seo:
+  name: John Doe
+  description: A software engineer with experience in web development and data science
+  image: /assets/images/profile.jpg
+  twitter:
+    username: johndoe
+  facebook:
+    app_id: 1234567890
