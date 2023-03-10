@@ -1,8 +1,3 @@
----
-layout: default
-title: John Doe - Software Engineer
----
-
 <div class="hero">
   <h1>John Doe</h1>
   <h2>Software Engineer</h2>
