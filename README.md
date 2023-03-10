@@ -1,90 +1,47 @@
-# Project Name
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+---
+layout: default
+title: John Doe - Software Engineer
+---
 
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Features](#features)
-* [Screenshots](#screenshots)
-* [Setup](#setup)
-* [Usage](#usage)
-* [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
-* [Contact](#contact)
-<!-- * [License](#license) -->
+<div class="hero">
+  <h1>John Doe</h1>
+  <h2>Software Engineer</h2>
+  <p>Welcome to my portfolio website!</p>
+</div>
 
+<div class="projects">
+  <h3>Featured Projects</h3>
+  <ul>
+    <li>
+      <h4>Project 1</h4>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce venenatis libero sed justo efficitur, vel ultricies metus venenatis. Nam bibendum malesuada nisi, eu ultricies erat. Integer vel dui lectus. </p>
+      <a href="#">View Project</a>
+    </li>
+    <li>
+      <h4>Project 2</h4>
+      <p>Donec suscipit auctor urna, vel commodo quam commodo quis. Aliquam eu libero sed orci euismod varius at nec mi. Morbi efficitur vestibulum massa vel commodo. </p>
+      <a href="#">View Project</a>
+    </li>
+    <li>
+      <h4>Project 3</h4>
+      <p>Vivamus maximus orci quis nibh elementum vestibulum. Praesent rhoncus, metus vel facilisis efficitur, sapien leo fringilla enim, eu interdum felis ipsum sit amet urna. </p>
+      <a href="#">View Project</a>
+    </li>
+  </ul>
+</div>
 
-## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+<div class="about">
+  <h3>About Me</h3>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam erat volutpat. Nulla faucibus elit sed nulla bibendum, ac malesuada lorem venenatis. Fusce faucibus, tellus sit amet fringilla lacinia, velit enim vehicula eros, vel interdum ipsum massa sed sapien. </p>
+  <p>Suspendisse potenti. Fusce tempus libero vitae consequat sagittis. Integer eget nisl a justo interdum aliquet a in lacus. Sed at tristique metus, sed efficitur dolor. </p>
+</div>
 
-
-## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
-
-
-## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
-
-
-## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
-
-
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
-
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
-
-
-## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
-
-
-## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-- Feature to be added 1
-- Feature to be added 2
-
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
-
-
-## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
-
+<div class="contact">
+  <h3>Contact Me</h3>
+  <p>Feel free to contact me if you have any questions or would like to work together:</p>
+  <ul>
+    <li>Email: john.doe@example.com</li>
+    <li>Phone: 123-456-7890</li>
+    <li>LinkedIn: <a href="#">linkedin.com/in/johndoe</a></li>
+  </ul>
+</div>
